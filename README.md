@@ -11,4 +11,4 @@ go get github.com/moln/loggers
 ```
 
 ### License
-MIT licensed, see [here](https://raw.github.com/moln/loggers/master/README.md)
+MIT licensed, see [here](https://raw.github.com/moln/loggers/master/LICENSE)
