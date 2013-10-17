@@ -1,5 +1,5 @@
 // Package loggers implements routines to log errors and access
-// for the Moln server.
+// for a server.
 package loggers
 
 import (
