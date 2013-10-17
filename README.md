@@ -1,7 +1,7 @@
 Loggers
 ---
 
-[GoDoc](godoc.org/github.com/moln/loggers)
+[GoDoc](http://godoc.org/github.com/moln/loggers)
 
 Loggers provides error and access logs.
 
